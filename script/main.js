@@ -2,10 +2,10 @@ Vue.createApp({
     data() {
         return {
             tentangAku : {
-                "nama": "Khalda Hafizhah Arina Wafa",
+                "nama": "Mohammad Jindan Dubbay Al Faresh",
                 "posisi": "Mahasiswa",
-                "story": "Hay Fweenn, kenalin aku khalda. panggil aja khal atau da, maybe. aku mahasiswa semester 4 universitas ahmad dahlan prodi sisitem informasi.kalo kalian mau kenal aku lebih jauh bisa tap di instagram juga email aku yaa. salam kenal semuanya!",
-                "image": "./img/IMG_2415.JPG"
+                "story": "Perkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa contact saja sesuai media sosial yang tercantum hihi",
+                "image": "./img/Jindan.jpg"
             },
             articles: [],
             article: null,
