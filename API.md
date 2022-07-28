@@ -12,13 +12,13 @@ GET: /users
 response:
 [
 {
-    "id": "",
-    "name": "",
-    "motto": "",
-    "desc": "",
-    "ig_url": "",
-    "github_url": "",
-    "avatar_url": ""
+        "id": "1",
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
 },
 {
   ...
@@ -31,13 +31,13 @@ GET: /users/[id]
 
 response:
 {
-    "id": "",
-    "name": "",
-    "motto": "",
-    "desc": "",
-    "ig_url": "",
-    "github_url": "",
-    "avatar_url": ""
+        "id": "1",
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
 }
 ```
 ### Menambahkan data user
@@ -46,12 +46,12 @@ POST: /users
 
 data:
 {
-    "name": "",
-    "motto": "",
-    "desc": "",
-    "ig_url": "",
-    "github_url": "",
-    "avatar_url": ""
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
 }
 
 response:
@@ -60,17 +60,16 @@ false   //if false
 ```
 ### Mengubah data user
 ```
-PUT: /about
+PUT: /about[id]
 
 data:
 {
-    "id":"",
-    "name": "",
-    "motto": "",
-    "desc": "",
-    "ig_url": "",
-    "github_url": "",
-    "avatar_url": ""
+        "nama": "Mohammad Jindan Dubbay",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
 }
 response:
 true    //if true
@@ -84,6 +83,88 @@ response:
 true    //if true
 false   //if false
 ```
+
+
+## About
+
+
+### Menampilkan data About
+```
+GET: /about
+
+response:
+[
+{
+        "id": "1",
+        "gambar": "http://zidane.bungsu.my.id/img/Jindan.jpg",
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa contact saja sesuai media sosial yang tercantum hihi"
+},
+{
+  ...
+}
+]
+```
+### Menampilkan data about dengan ```id``` tertentu 
+```
+GET: /about/[id]
+
+response:
+{
+        "id": "1",
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
+}
+```
+### Menambahkan data about
+```
+POST: /about
+
+data:
+{
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
+}
+
+response:
+true    //if true
+false   //if false
+```
+### Mengubah data about
+```
+PUT: /about[id]
+
+data:
+{
+        "nama": "Mohammad Jindan Dubbay",
+        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
+        "github_url": "https://github.com/ZidaneAlFareshy",
+        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
+        "fb_url": "https://www.facebook.com/Zidane124",
+        "discord_url": "https://discord.gg/gYx4hT49"
+}
+response:
+true    //if true
+false   //if false
+```
+### Menghapus data about
+```
+DELETE: /about/[id]
+
+response:
+true    //if true
+false   //if false
+```
+
+
 ## ARTICLES
 ### Menampilkan articles
 ```
