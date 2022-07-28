@@ -173,15 +173,34 @@ GET: /articles
 response:
 [
 {
-    "id": "",
-    "title": "",
-    "description": "",
-    "author": "",
-    "thumbnail_url": "",
-    "content": ""
+"id": "1",
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni"
 },
 {
-    ...
+"id": "2",
+"gambar": "http://zidane.bungsu.my.id/img/temandengar.jpeg",
+"deskripsi": "Teman Dengar adalah salah satu komunitas kesehatran mental yang saya ikuti"
+},
+{
+"id": "3",
+"gambar": "http://zidane.bungsu.my.id/img/analisis.jpeg",
+"deskripsi": "Melakukan observasi tentang sebuah bisnis di salah satu Restoran di Yogyakarta"
+},
+{
+"id": "5",
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
+},
+{
+"id": "6",
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
+},
+{
+"id": "7",
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
 }
 ]
 ```
@@ -191,12 +210,9 @@ GET: /articles/[id]
 
 response:
 {
-    "id": "",
-    "title": "",
-    "description": "",
-    "author": "",
-    "thumbnail_url": "",
-    "content": ""
+"id": "1",
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni"
 }
 ```
 ### Menambahkan article
@@ -205,11 +221,8 @@ POST: /articles
 
 data:
 {
-    "title": "",
-    "description": "",
-    "author": "",
-    "thumbnail_url": "",
-    "content": ""
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
 }
 
 response:
@@ -222,12 +235,8 @@ PUT: /articles
 
 data:
 {
-    "id":"",
-    "title": "",
-    "description": "",
-    "author": "",
-    "thumbnail_url": "",
-    "content": ""
+"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"deskripsi": "menekuni"
 }
 
 response:
