@@ -3,8 +3,8 @@
         {
             "id": 0,
             "judul": "Minat",
-            "tanggal": "1 Ppril 2022",
-            "deskripsi": "menekuni g pendidikan anak usia dini ",
+            "tanggal": "1 April 2022",
+            "deskripsi": "Pendidikan yang harus ditekuni ",
             "image": "./img/anakusiadini.jpg",
             "link": "article1.md"
         },
@@ -12,7 +12,7 @@
             "id": 1,
             "judul": "Komunitas",
             "tanggal": "10 April 2022",
-            "deskripsi": "Teman Dengar adalah salah satu komunitas kesehatran mental yang saya ikuti",
+            "deskripsi": "Teman yang baik",
             "image": "./img/temandengar.jpeg",
             "link": "article4.md"
         },
@@ -20,7 +20,7 @@
             "id": 2,
             "judul": "Bidang",
             "tanggal": "13 April 2022",
-            "deskripsi": "kukan observasi tentang sebuah bisnis di salah satu Restoran di Yogyakarta",
+            "deskripsi": "Obeservasi Restoran di DI Yogyakarta",
             "image": "./img/analisis.jpeg",
             "link": "article2.md"
         }
