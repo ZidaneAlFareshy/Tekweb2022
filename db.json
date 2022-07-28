@@ -5,23 +5,23 @@
             "judul": "Minat",
             "tanggal": "1 April 2022",
             "deskripsi": "Pendidikan yang harus ditekuni ",
-            "image": "./img/anakusiadini.jpg",
+            "image": "./img/pendidikan.jpg",
             "link": "article1.md"
         },
         {
             "id": 1,
             "judul": "Komunitas",
-            "tanggal": "10 April 2022",
+            "tanggal": "15 April 2022",
             "deskripsi": "Teman yang baik",
-            "image": "./img/temandengar.jpeg",
+            "image": "./img/teman.jpg",
             "link": "article4.md"
         },
         {
             "id": 2,
             "judul": "Bidang",
-            "tanggal": "13 April 2022",
+            "tanggal": "20 Agustus 2022",
             "deskripsi": "Obeservasi Restoran di DI Yogyakarta",
-            "image": "./img/analisis.jpeg",
+            "image": "./img/12.jpg",
             "link": "article2.md"
         }
     ]
