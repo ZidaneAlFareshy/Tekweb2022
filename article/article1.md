@@ -1,28 +1,15 @@
 
-## Serba Serbi Pentingnya Pendidikan Anak Usia Dini (PAUD)
-
-![](https://www.adira.co.id/img/frontend/news/thumb_serbaserbipentingnyapendidikananakusiadinijpg.jpg)
+## Pentingnya Pendidikan
  
 
-10 September 2021 | Penulis :  [Adira Finance](https://www.adira.co.id/search/index/cc/QWRpcmEgRmluYW5jZQ)
+Pendidikan memegang peranan yang sangat penting di dalam meningkatkan sumber daya manusia yang handal. Rendahnya kualitas pendidikan menjadi penyebab dari krisisnya sumber daya manusia. 
+Mengingat saat ini zaman semakin merambah maju, yang mana otomatis turut berpengaruh pada perkembangan ekonomi. Sehingga, sudah sepatutnya jika lapangan pekerjaan membutuhkan sumber daya manusia yang benar-benar kompeten untuk bersinergi bersama.
 
-Saat ini sudah banyak orang tua yang mulai merasakan pentingnya Pendidikan Anak Usia Dini atau PAUD, apakah Sahabat salah satunya? Sebagian besar orang tua menganggap Pendidikan Anak Usia Dini dapat mengoptimalkan tumbuh kembang anak sebelum memasuki Sekolah Dasar (SD).
+## Belum Meratanya Pendidikan Di Indonesia
 
-Kehadiran Pendidikan Anak Usia Dini sering kali jadi pilihan, terutama bagi orang tua yang memiliki kesibukan yang padat. PAUD diharapkan menjadi tempat bermain yang menyenangkan, sehingga anak mendapat teman baru dan dapat bersosialisasi dengan baik. Namun, apakah Pendidikan Anak Usia Dini memang penting? Apa saja manfaat dan hal yang didapat anak jika mengikuti PAUD? Simak penjelasannya di bawah ini yuk!
-
-## Apa itu Pendidikan Anak Usia Dini?
-
-Pendidikan Anak Usia Dini atau PAUD merupakan jenjang  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  sebelum memasuki Sekolah Dasar (SD). Biasanya Pendidikan Anak Usia Dini ini diberikan kepada anak yang berusia di bawah 4 tahun.
-
-Meski begitu, tidak ada patokan yang pasti di usia berapa seorang anak bisa mengikuti Pendidikan Anak Usia Dini. Hal ini dikarenakan setiap anak memiliki kesiapan yang berbeda dalam mengikuti kegiatan yang ada.
-
-Maka dari itu, penting bagi Sahabat untuk mengetahui tanda-tanda anak yang sudah siap mengikuti PAUD. Sebaiknya, sebelum memasukkan anak ke PAUD, Sahabat terbiasa menstimulasinya, seperti melatih kemampuan komunikasi, bahasa, dan adaptasi dengan orang terdekat. Lantas, mengapa Pendidikan Anak Usia Dini penting?
-
-Melansir laman resmi kemdikbud.go.id, Kementerian Pendidikan dan Kebudayaan RI menyebut bahwa peran Pendidikan Anak Usia Dini sangat penting untuk mengoptimalkan tumbuh kembang anak, baik secara fisik dan mental.
-
-Di Indonesia, Pendidikan Anak Usia Dini terbagi ke dalam beberapa jenis, yaitu Kelompok Bermain (KB), Taman Penitipan Anak (TPA), Taman Kanak-kanak (TK), dan Taman Kanak-kanak luar biasa.
-
-Pemilihan jenis PAUD ini bisa disesuaikan berdasarkan dengan usia setiap anak. Misalnya, kelompok Bermain (KB) termasuk jalur  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  nonformal untuk anak yang berusia 2-6 tahun. Taman Penitipan Anak (TPA) termasuk  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  nonformal bagi anak usia 1 bulan hingga 4 tahun. Sementara, Taman Kanak-kanak (TK) termasuk  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  formal bagi anak berusia 4-6 tahun.
+Salah satu penyebab dari kurangnya sumber daya manusia yang berkualitas adalah pendidikan yang belum merata. 
+Seperti diketahui bersama bahwa selama ini pendidikan lebih difokuskan di Pulau Jawa. Meskipun di setiap pulau sudah disediakan sekolah, namun hal tersebut belumlah berjalan 
+secara maksimal seperti halnya sekolah di Pulau Jawa.
 
 ## Mengapa Pendidikan Anak Usia Dini Penting?
 
