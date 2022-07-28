@@ -95,13 +95,10 @@ GET: /about
 response:
 [
 {
-        "id": "1",
-        "gambar": "http://zidane.bungsu.my.id/img/Jindan.jpg",
-        "nama": "Mohammad Jindan Dubbay Al Faresh",
-        "deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa contact saja sesuai media sosial yang tercantum hihi"
-},
-{
-  ...
+"id": "1",
+"gambar": "http://jindan12.bungsu.my.id/img/Jindan.jpg",
+"nama": "Mohammad Jindan Dubbay Al Faresh",
+"deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa contact saja sesuai media sosial yang tercantum hihi"
 }
 ]
 ```
@@ -112,12 +109,9 @@ GET: /about/[id]
 response:
 {
         "id": "1",
+        "gambar": "http://jindan12.bungsu.my.id/img/Jindan.jpg",
         "nama": "Mohammad Jindan Dubbay Al Faresh",
-        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
-        "github_url": "https://github.com/ZidaneAlFareshy",
-        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
-        "fb_url": "https://www.facebook.com/Zidane124",
-        "discord_url": "https://discord.gg/gYx4hT49"
+        "deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca         buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa               contact saja sesuai media sosial yang tercantum hihi"
 }
 ```
 ### Menambahkan data about
@@ -126,12 +120,9 @@ POST: /about
 
 data:
 {
+        "gambar": "http://jindan12.bungsu.my.id/img/Jindan.jpg",
         "nama": "Mohammad Jindan Dubbay Al Faresh",
-        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
-        "github_url": "https://github.com/ZidaneAlFareshy",
-        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
-        "fb_url": "https://www.facebook.com/Zidane124",
-        "discord_url": "https://discord.gg/gYx4hT49"
+        "deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca         buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa               contact saja sesuai media sosial yang tercantum hihi"
 }
 
 response:
@@ -144,12 +135,9 @@ PUT: /about[id]
 
 data:
 {
-        "nama": "Mohammad Jindan Dubbay",
-        "deskripsi": "Hello Selamat Datang di Website ku\r\nMahasiswa Sistem Informasi Universitas Ahmad Dahlan Yogyakarta",
-        "github_url": "https://github.com/ZidaneAlFareshy",
-        "ig_url": "https://www.instagram.com/zidane_al_fareshy/",
-        "fb_url": "https://www.facebook.com/Zidane124",
-        "discord_url": "https://discord.gg/gYx4hT49"
+        "gambar": "http://jindan12.bungsu.my.id/img/Jindan.jpg",
+        "nama": "Mohammad Jindan Dubbay Al Faresh",
+        "deskripsi": "Mahasiswa\r\n\r\nPerkenalkan nama saya Mohammad Jindan Dubbay Al Faresh biasa dipanggil Jindan, lahir di Indramayu, Jawa Barat. Hobi saya membaca         buku dan membuat sesuatu yang menurut saya itu menarik. Saya mahasiswa Universitas Ahmad Dahlan prodi Sistem Informasi, jika ingin lebih mengenalku bisa               contact saja sesuai media sosial yang tercantum hihi"
 }
 response:
 true    //if true
@@ -174,33 +162,18 @@ response:
 [
 {
 "id": "1",
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni"
+"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"deskripsi": "Pendidikan yang harus ditekuni"
 },
 {
 "id": "2",
-"gambar": "http://zidane.bungsu.my.id/img/temandengar.jpeg",
-"deskripsi": "Teman Dengar adalah salah satu komunitas kesehatran mental yang saya ikuti"
+"gambar": "http://jindan12.bungsu.my.id/img/teman.jpg",
+"deskripsi": "Teman yang baik"
 },
 {
 "id": "3",
-"gambar": "http://zidane.bungsu.my.id/img/analisis.jpeg",
-"deskripsi": "Melakukan observasi tentang sebuah bisnis di salah satu Restoran di Yogyakarta"
-},
-{
-"id": "5",
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
-},
-{
-"id": "6",
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
-},
-{
-"id": "7",
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
+"gambar": "http://jindan12.bungsu.my.id/img/12.jpg",
+"deskripsi": "Obeservasi Restoran di DI Yogyakarta"
 }
 ]
 ```
@@ -211,8 +184,8 @@ GET: /articles/[id]
 response:
 {
 "id": "1",
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni"
+"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"deskripsi": "Pendidikan yang harus ditekuni"
 }
 ```
 ### Menambahkan article
@@ -221,7 +194,7 @@ POST: /articles
 
 data:
 {
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
+"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
 "deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
 }
 
@@ -235,8 +208,8 @@ PUT: /articles
 
 data:
 {
-"gambar": "http://zidane.bungsu.my.id/img/anakusiadini.jpeg",
-"deskripsi": "menekuni"
+"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
 }
 
 response:
