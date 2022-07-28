@@ -15,7 +15,7 @@ Vue.createApp({
         getArticles() {
             axios
                 .get(
-                    src = "./db.json"
+                    "https://my-json-server.typicode.com/ZidaneAlFareshy/Tekweb2022/article"
                 )
                 .then((res) => {
                     this.articles = res.data;
@@ -32,7 +32,7 @@ Vue.createApp({
             console.log(articles);
             axios
                 .get(
-                    src = "https://raw.githubusercontent.com/khalda09/tekweb2022/main/article/" + articles
+                    src = "https://raw.githubusercontent.com/ZidaneAlFareshy/Tekweb2022/main/article/" + articles
                 )
                 .then((res) => {
                     var html = converter.makeHtml(res.data);
