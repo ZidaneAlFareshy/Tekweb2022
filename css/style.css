@@ -1,0 +1,71 @@
+body {
+    color: white;
+    background: #4776E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #131216, #717580);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #525f7e, #af1919); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+.row {
+    margin-top: 250px;
+    height: 100vh;
+}
+.image {
+    position: absolute;
+    top: 90px;
+    right: 106px;
+    z-index: -1;
+}
+.image img {
+    width: 350px;
+}
+
+.sosmed ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+li.instagram {
+    background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+li.twitter {
+    background: #00acee;
+}
+li.facebook {
+    background-color: #4267B2;
+}
+li.discord {
+    background-color: #5865f2;
+}
+li i {
+    margin: 0px 5px 0px 0px;
+}
+li.twitter a, li.instagram a , li.facebook a, li.discord a{
+    color: white;
+}li.github a {color: black;}
+li > a {
+    text-decoration: none;
+}
+.card {
+    margin: 0px 15px;
+}
+.card .card-body{
+    color: #050505;
+}
+.deskripsi {color: #ffff;} .deskripsi h1{font-size: 3em; margin: 5px;}
+.card{margin: 15px;}
+section{height: 100vh;}
+footer{
+    background: #ffffff;
+    background: -webkit-linear-gradient(to right, #ffffff, #ffffff);
+    background: linear-gradient(to right, #ffffff, #ffffff);
+    filter: brightness(100%)
+}
+.article {
+    margin-bottom: 100px;
+}
