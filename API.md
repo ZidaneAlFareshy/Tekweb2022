@@ -162,18 +162,18 @@ response:
 [
 {
 "id": "1",
-"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"gambar": "https://jindan12.bungsu.my.id/img/pendidikan.jpg",
 "deskripsi": "Pendidikan yang harus ditekuni"
 },
 {
 "id": "2",
-"gambar": "http://jindan12.bungsu.my.id/img/teman.jpg",
+"gambar": "https://jindan12.bungsu.my.id/img/teman.jpg",
 "deskripsi": "Teman yang baik"
 },
 {
 "id": "3",
 "gambar": "http://jindan12.bungsu.my.id/img/12.jpg",
-"deskripsi": "Obeservasi Restoran di DI Yogyakarta"
+"deskripsi": "Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan"
 }
 ]
 ```
@@ -184,7 +184,7 @@ GET: /articles/[id]
 response:
 {
 "id": "1",
-"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"gambar": "https://jindan12.bungsu.my.id/img/pendidikan.jpg",
 "deskripsi": "Pendidikan yang harus ditekuni"
 }
 ```
@@ -194,8 +194,8 @@ POST: /articles
 
 data:
 {
-"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
-"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
+"gambar": "https://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"deskripsi": "Pendidikan yang harus ditekuni"
 }
 
 response:
@@ -208,8 +208,8 @@ PUT: /articles
 
 data:
 {
-"gambar": "http://jindan12.bungsu.my.id/img/pendidikan.jpg",
-"deskripsi": "menekuni dalam bidang pendidikan anak usia dini"
+"gambar": "https://jindan12.bungsu.my.id/img/pendidikan.jpg",
+"deskripsi": "Pendidikan yang harus ditekuni dan dijalankan"
 }
 
 response:
