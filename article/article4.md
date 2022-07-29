@@ -1,33 +1,15 @@
-# Komunitas Teman Dengar, Beri Kesempatan Setara pada Teman Tuli
+# Apasih Arti Teman Bagi Kamu? Bagiku, Teman Punya Banyak Arti!
 
-Vania Rossa | Dini Afrianti Efendi
+Manusia ditakdirkan hidup untuk tidak sendiri. Manusia pada hakikatnya adalah makhluk sosial yang senang dengan kebersamaan. Jalan hidup manusia tak ada yang sama. Ya, aku mengetahui jalan hidup manusia tak ada yang sama. Tapi sadarkah, setiap manusia butuh teman untuk melengkapi hidupnya?
 
-Sabtu, 01 Februari 2020 | 09:39 WIB
+Teman, sebuah kata yang memiliki banyak arti, dulu aku mengartikannya bahwa teman adalah seseorang yang menyenangkan. Masa kecilku memang tak begitu indah. Tapi dengan adanya, teman hidupku bagaikan pelangi yang datang setelah hujan deras mengguyur.
 
-![Komunitas Teman Dengar, Beri Kesempatan Setara pada Teman Tuli](https://media.suara.com/pictures/653x366/2020/02/01/91015-komunitas-teman-dengar.jpg)
+Teman, sebuah kata yang memiliki banyak arti, semakin dewasa kuartikan bahwa teman adalah seseorang yang ada disaat suka maupun duka. Aku merasa dengan adanya teman, hidupku semakin lengkap. Teman bagaikan malaikat penolong yang dikirimkan Tuhan untukku. Teman bagaikan penenangku disaat aku susah.
 
-Komunitas Teman Dengar. (Suara.com/Dini Afrianti Efendi)
+Tapi kini aku menyadari bahwa tak semua teman dapat memberiku ketenangan, kebahagiaan, dan selalu bersama. Kini aku menyadari bahwa arti seorang teman adalah bagaikan angin. Seperti angin yang datang tak terduga, terkadang tak diharapkan, terkadang meporak-porandakan lingkungan sekitar, terkadang angin datang sebagai pertanda bahwa hujan badai akan datang, dan terkadang pula angin datang menyejukkan hati.
 
-**Suara.com -** Manusia diciptakan dengan rasa kasih sayang dan saling mengasihi. Dan untuk mereka dengan kondisi 'istimewa' karena memiliki kondisi yang berbeda, misalnya  [tuli](https://www.suara.com/tag/tuli)  atau tidak bisa mendengar, tak sedikit orang yang menunjukkan kepedualiannya.
+Teman, kini aku menyadari, tak semua teman 'tulus' berteman. Kini aku menyadari, seseorang terkadang hanya datang karena butuh bantuan dan seketika lenyap bagaikan di telan bumi. Seseorang terkadang datang karena menginginkan apa yang ada dalam diri kita dan kemudian pergi bagaikan kilat. Seseorang terkadang berkata 'kau temanku' tapi itu semua hanyalah sesaat dan kemudian melupakannya.
 
-Meski memiliki keterbatasan dalam berkomunikasi, bukan berarti kita harus menghindari mereka. Terbatas bukan berarti tidak bisa berkomunikasi, kan? Masalahnya, apakah kita mau belajar bahasa yang mereka gunakan untuk berkomunikasi?
+Sadarlah, semua orang punya hati. Semua orang butuh teman. Tapi apakah kita sudah menjadi teman yang sesungguhnya? Seorang teman yang saling membantu, seorang teman yang ada disaat temannya bersedih, seorang teman yang bahkan rela berkorban demi temannya, dan seorang teman yang selalu mendoakan temannya untuk kebaikan bersama. Apakah kita sudah menjadi teman yang sesungguhnya?
 
-![Komunitas Teman Dengar](https://media.suara.com/pictures/original/2020/02/01/60492-komunitas-teman-dengar.jpg)
-
-[Komunitas Teman Dengar](https://www.suara.com/tag/komunitas-teman-dengar)
-
-Nah, visi ini diemban  [Komunitas](https://www.suara.com/tag/komunitas)  Teman Dengar yang mayoritas berdomisili di Bandung, yang berharap ingin lebih banyak orang bisa berkomunikasi dengan teman-teman tuli, dan tidak ada pembeda karena pada dasarnya mereka sama seperti orang-orang normal.
-
-"Kita kan kadang tidak menyadari sebenarnya ada teman-teman kita yang tidak mendengar. Mereka biasanya banyak berinteraksi dengan sesama mereka aja, yang tuli," ujar Reni, founder Komunitas Teman Dengar, kepada Suara.com, Sabtu (1/2/2020).
-
-Baca Juga:[Membangun Komunitas Gemar Bertransportasi Publik](https://yoursay.suara.com/news/2020/01/17/113009/membangun-komunitas-gemar-bertransportasi-publik)
-
-![Komunitas Teman Dengar](https://media.suara.com/pictures/original/2020/02/01/64707-komunitas-teman-dengar.jpg)
-
-Komunitas Teman Dengar
-
-"Kalau mereka interaksi dengan kita, bisa jadi kita tidak paham dengan bahasa mereka. Nah, jadi kita muncullah kepedulian itu, untuk bisa memahami mereka, mengerti bahasa mereka, sehingga mereka pun bisa berinteraksi sama kita seperti biasa saja," sambung Reni.
-
-Dengan meluasnya cara berkomunikasi ini, kata Reni, ia berharap semakin terbuka juga kesempatan para teman tuli ini, khususnya dalam hal sosial, pertemanan, hingga kesempatan kerja.
-
-"Mereka pun punya kesempatan yang sama, cuma mereka terkendala dengan komunikasi sehingga harus dimudahkan bahasa isyarat itu," jelasnya.
+Teman, satu kata yang memiliki sejuta arti, semakin aku dewasa semakin aku tahu pula bahwa arti dari kata 'teman' tak dapat dihitung jari. Aku tak pernah menyangka bahwa teman memiliki arti yang sangat besar dalam hidupku. Aku bukan teman yang baik, karena setiap manusia pasti memliki kekurangan, tapi aku berusaha menjadi yang terbaik untuk temanku. Temanku, seperti apakah wujud kalian aslinya? Aku bahkan tak pernah mengetahui dan tak pernah mau tahu. Aku hanya tahu kalian adalah seseorang yang dikirimkan Tuhan untuk bersamaku. Karena sesungguhnya seorang teman hadir untuk mengisi perjalanan hidup seorang manusia.
