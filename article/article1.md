@@ -33,8 +33,6 @@ Namun, ada pula orang tua yang menganggap PAUD penting untuk mendukung tumbuh ke
     
     Tahukah Sahabat bahwa di usia 5 tahun, perkembangan otak anak mencapai 90 persen lho. Itu artinya, kehadiran PAUD dapat mendukung fungsi otak anak lebih optimal. Hal ini karena ia akan mendapat pengalaman dan pengetahuan baru yang bermanfaat hingga jangka panjang.
     
-    Baca juga:  [**Butuh Pinjaman Dana? Ini Syarat dan Tips Agar Cepat Cair**](https://www.adira.co.id/detail_berita/metalink/pinjaman-dana)
-    
 
 ## Kemampuan yang Dilatih pada Pendidikan Anak Usia Dini
 
@@ -65,25 +63,13 @@ Saat ini sudah banyak Pendidikan Anak Usia Dini yang bisa menjadi media anak unt
 
 Sahabat pasti mengharapkan yang terbaik bagi anak yang akan masuk PAUD. Akan tetapi, biasanya Pendidikan Anak Usia Dini terbaik memerlukan biaya yang tak sedikit. Hal ini dipengaruhi oleh berbagai faktor, mulai dari kurikulum, fasilitas, dan tenaga pengajar.
 
-Namun, Sahabat tidak perlu khawatir lagi, ya. Saat ini sudah sudah ada kemudahan dalam mendapatkan pinjaman dana  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa). Dengan dana pinjaman  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  ini, Sahabat tidak perlu menunggu waktu yang lama untuk menyiapkan uang tunai atau menunggu uang di bank terkumpul dengan sempurna.
-
-Dana pinjaman ini memudahkan Sahabat untuk membayar biaya  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  di sekolah yang bersangkutan._Nah,_ Sahabat bisa memanfaatkan aplikasi  [**Adiraku**](https://www.adira.co.id/detail_promo/metalink/faq-adiraku)  untuk mendapatkan dana pinjaman yang mudah, praktis, dan terpercaya.
-
-Aplikasi Adiraku ini merupakan fasilitas yang disediakan oleh  **[Adira Finance](https://www.adira.co.id/)**, yaitu salah satu lembaga pembiayaan yang sudah terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK). Di aplikasi  **[Adiraku](https://www.adira.co.id/detail_promo/metalink/faq-adiraku)**, Sahabat bisa menggunakan layanan  [**kredit multiguna**](https://www.adira.co.id/produk/metalink/Kredit-Multiguna)  untuk mendapatkan pinjaman dana  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa).
-
 Aplikasi Adiraku memudahkan Sahabat untuk mengajukan layanan pinjaman dana tanpa harus keluar rumah. Sahabat cukup mengakses pengajuan pinjaman hanya melalui  _smartphone_ saja lho. Selain kredit multiguna, aplikasi Adiraku juga menyediakan berbagai layanan lainnya, seperti kredit mobil, kredit motor, pembiayaan syariah, pembiayaan umrah, serta kredit elektronik dan furnitur.## Serba Serbi Pentingnya Pendidikan Anak Usia Dini (PAUD)
-
-![](https://www.adira.co.id/img/frontend/news/thumb_serbaserbipentingnyapendidikananakusiadinijpg.jpg)
-
-10 September 2021 | Penulis :  [Adira Finance](https://www.adira.co.id/search/index/cc/QWRpcmEgRmluYW5jZQ)
 
 Saat ini sudah banyak orang tua yang mulai merasakan pentingnya Pendidikan Anak Usia Dini atau PAUD, apakah Sahabat salah satunya? Sebagian besar orang tua menganggap Pendidikan Anak Usia Dini dapat mengoptimalkan tumbuh kembang anak sebelum memasuki Sekolah Dasar (SD).
 
 Kehadiran Pendidikan Anak Usia Dini sering kali jadi pilihan, terutama bagi orang tua yang memiliki kesibukan yang padat. PAUD diharapkan menjadi tempat bermain yang menyenangkan, sehingga anak mendapat teman baru dan dapat bersosialisasi dengan baik. Namun, apakah Pendidikan Anak Usia Dini memang penting? Apa saja manfaat dan hal yang didapat anak jika mengikuti PAUD? Simak penjelasannya di bawah ini yuk!
 
 ## Apa itu Pendidikan Anak Usia Dini?
-
-Pendidikan Anak Usia Dini atau PAUD merupakan jenjang  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  sebelum memasuki Sekolah Dasar (SD). Biasanya Pendidikan Anak Usia Dini ini diberikan kepada anak yang berusia di bawah 4 tahun.
 
 Meski begitu, tidak ada patokan yang pasti di usia berapa seorang anak bisa mengikuti Pendidikan Anak Usia Dini. Hal ini dikarenakan setiap anak memiliki kesiapan yang berbeda dalam mengikuti kegiatan yang ada.
 
@@ -92,8 +78,6 @@ Maka dari itu, penting bagi Sahabat untuk mengetahui tanda-tanda anak yang sudah
 Melansir laman resmi kemdikbud.go.id, Kementerian Pendidikan dan Kebudayaan RI menyebut bahwa peran Pendidikan Anak Usia Dini sangat penting untuk mengoptimalkan tumbuh kembang anak, baik secara fisik dan mental.
 
 Di Indonesia, Pendidikan Anak Usia Dini terbagi ke dalam beberapa jenis, yaitu Kelompok Bermain (KB), Taman Penitipan Anak (TPA), Taman Kanak-kanak (TK), dan Taman Kanak-kanak luar biasa.
-
-Pemilihan jenis PAUD ini bisa disesuaikan berdasarkan dengan usia setiap anak. Misalnya, kelompok Bermain (KB) termasuk jalur  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  nonformal untuk anak yang berusia 2-6 tahun. Taman Penitipan Anak (TPA) termasuk  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  nonformal bagi anak usia 1 bulan hingga 4 tahun. Sementara, Taman Kanak-kanak (TK) termasuk  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  formal bagi anak berusia 4-6 tahun.
 
 ## Mengapa Pendidikan Anak Usia Dini Penting?
 
@@ -117,9 +101,6 @@ Namun, ada pula orang tua yang menganggap PAUD penting untuk mendukung tumbuh ke
     
     Tahukah Sahabat bahwa di usia 5 tahun, perkembangan otak anak mencapai 90 persen lho. Itu artinya, kehadiran PAUD dapat mendukung fungsi otak anak lebih optimal. Hal ini karena ia akan mendapat pengalaman dan pengetahuan baru yang bermanfaat hingga jangka panjang.
     
-    Baca juga:  [**Butuh Pinjaman Dana? Ini Syarat dan Tips Agar Cepat Cair**](https://www.adira.co.id/detail_berita/metalink/pinjaman-dana)
-    
-
 ## Kemampuan yang Dilatih pada Pendidikan Anak Usia Dini
 
 Setelah memahami pentingnya Pendidikan Anak Usia Dini, sekarang saatnya Sahabat mengetahui kemampuan apa saja yang biasanya dilatih saat anak masuk PAUD. Berikut adalah penjelasannya:
@@ -149,10 +130,3 @@ Saat ini sudah banyak Pendidikan Anak Usia Dini yang bisa menjadi media anak unt
 
 Sahabat pasti mengharapkan yang terbaik bagi anak yang akan masuk PAUD. Akan tetapi, biasanya Pendidikan Anak Usia Dini terbaik memerlukan biaya yang tak sedikit. Hal ini dipengaruhi oleh berbagai faktor, mulai dari kurikulum, fasilitas, dan tenaga pengajar.
 
-Namun, Sahabat tidak perlu khawatir lagi, ya. Saat ini sudah sudah ada kemudahan dalam mendapatkan pinjaman dana  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa). Dengan dana pinjaman  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  ini, Sahabat tidak perlu menunggu waktu yang lama untuk menyiapkan uang tunai atau menunggu uang di bank terkumpul dengan sempurna.
-
-Dana pinjaman ini memudahkan Sahabat untuk membayar biaya  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa)  di sekolah yang bersangkutan._Nah,_ Sahabat bisa memanfaatkan aplikasi  [**Adiraku**](https://www.adira.co.id/detail_promo/metalink/faq-adiraku)  untuk mendapatkan dana pinjaman yang mudah, praktis, dan terpercaya.
-
-Aplikasi Adiraku ini merupakan fasilitas yang disediakan oleh  **[Adira Finance](https://www.adira.co.id/)**, yaitu salah satu lembaga pembiayaan yang sudah terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK). Di aplikasi  **[Adiraku](https://www.adira.co.id/detail_promo/metalink/faq-adiraku)**, Sahabat bisa menggunakan layanan  [**kredit multiguna**](https://www.adira.co.id/produk/metalink/Kredit-Multiguna)  untuk mendapatkan pinjaman dana  [pendidikan](https://www.adira.co.id/produk/metalink/Kredit-Multiguna-Jasa).
-
-Aplikasi Adiraku memudahkan Sahabat untuk mengajukan layanan pinjaman dana tanpa harus keluar rumah. Sahabat cukup mengakses pengajuan pinjaman hanya melalui  _smartphone_ saja lho. Selain kredit multiguna, aplikasi Adiraku juga menyediakan berbagai layanan lainnya, seperti kredit mobil, kredit motor, pembiayaan syariah, pembiayaan umrah, serta kredit elektronik dan furnitur.
