@@ -1,74 +1,80 @@
-﻿# 5 Cara Menerapkan Kuesioner dan Observasi pada Bisnis
+﻿# Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan
 
-[Home](https://zahiraccounting.com/id/blog/)  »  5 Cara Menerapkan Kuesioner dan Observasi pada Bisnis
 
-![manfaat kuesioner dan observasi pada bisnis](https://i0.wp.com/zahiraccounting.com/id/blog/wp-content/uploads/2021/07/kuesioner-observasi.jpg)
 
-Kuesioner dan observasi merupakan langkah untuk menentukan segmen pasar bisnis anda. Bagi anda yang ingin membuka bisnis baru pastinya anda menginginkan produk anda terjual banyak setiap bulannya.
+Konten ini telah tayang di Kompasiana.com dengan judul "Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan", Klik untuk baca:
+https://www.kompasiana.com/i85527/62cec80f6e7f013adc2f7f74/penelitian-kemasyarakatan-sebagai-salat-satu-alat-dalam-merevitalisasi-pemasyarakatan
 
-Tetapi jika bingung ingin menjual produk apa, anda bisa melakukan kuesioner dan obsevasi terlebih dahulu.
-## Apa itu Kuesioner dan Observasi?
+Kreator: I Gede Arimbawa
 
-Kuesioner atau angket merupakan salah satu teknik pengumpulan data dengan cara mengirimkan suatu daftar pertanyaan kepada responden untuk di isi.
 
-Sedangkan observasi merupakan salah satu teknik pengumpulan data dengan melakukan pengamatan secara langsung terhadap objek penelitian untuk diamati.
 
-## Manfaat Kuesioner dan Observasi
+Kompasiana adalah platform blog, setiap konten menjadi tanggungjawab kreator.
 
-Apa hubungannya questioner dan observasi terhadap membuka bisnis baru? Dengan melakukan questioner dan observasi, anda dapat mengetahui segmentasi pasar dari bisnis anda.
+Tulis opini Anda seputar isu terkini di Kompasiana.com
 
-Menentukan segmentasi pasar sangat penting untuk meningkatkan penjualan produk anda. Kenapa demikian?
+Revitalisasi Penyelenggaraan Pemasyarakatan merupakan sebuah upaya pengoptimalisasi penyelenggaraan Pemasyarakatan dalam rangka perlakuan terhadap tahanan, narapidana, 
 
-Karena mengetahui segmentasi pasar produk anda akan meningkatkan efektivitas pemasaran dan penjualan produk. Serta produk yang anda jual akan tepat sasaran bagi penggunanya.
+dan Klien serta perlindungan atas hak kepemilikan terhadap barang bukti tanpa menghilangkan nilai-nilai HAM warga binaan dengan mengklasifikasikan mereka berdasarkan karakteristik dan perubahan perilaku. Perbaikan serta pengoptimalan dalam penguatan penyelenggaraan Pemasyarakatan merupakan hal yang mutlak. 
 
-Bagaimana cara menerapkan kuesioner dan observasi untuk menentukan produk yang ingin anda jual?
+Oleh karena itu, unit pelaksana teknis perlu memperhatikan pengembangan dari kompetensi petugas pemasyarakatan. 
 
-## Cara Menerapkan Kuesioner dan Observasi
+Pelaksanaan tugas Pembimbing Pemasyarakatan harus beradaptasi dengan perkembangan masyarakat sehingga menjadi titik penting dalam proses litmas (penelitian kemasyarakatan) yang harus dilakukan,
 
-Berikut beberapa cara penerapan kuesioner dan observasi yang bisa anda ikuti.
 
-### 1. Tentukan terlebih dahulu media bisnis anda
 
-Sebelum anda melakukan observasi dan kuesioner, anda tentukan terlebih dahulu media bisnis anda. Menggunakan toko fisik atau tidak.
+Konten ini telah tayang di Kompasiana.com dengan judul "Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan", Klik untuk baca:
+https://www.kompasiana.com/i85527/62cec80f6e7f013adc2f7f74/penelitian-kemasyarakatan-sebagai-salat-satu-alat-dalam-merevitalisasi-pemasyarakatan
 
-[](https://zahiraccounting.com/id/blog/benarkah-besarnya-repeat-order-salah-satu-indikasi-baik-perusahaan/)
+Kreator: I Gede Arimbawa
 
-Baca Juga : Benarkah Besarnya Repeat Order Salah Satu Indikasi Baik Perusahaan ?
 
-Menggunakan sosial media saja atau toko fisik juga. Karena dengan dua tempat media yang berbeda, observasi dan questioner dilakukan dengan cara yang berbeda.
 
-Jika anda ingin membuka toko fisik, anda bisa membuat kuesioner dalam bentuk fisik kertas dan membaginya ke tetangga anda di rumah.
+Kompasiana adalah platform blog, setiap konten menjadi tanggungjawab kreator.
 
-Jika sudah melakukan hal tersebut anda juga bisa melakukan observasi dengan melihat kebutuhan apa saja yang dibutuhkan di sekitar lingkungan anda.
+Tulis opini Anda seputar isu terkini di Kompasiana.com
 
-Jika anda ingin membuka  [toko online](https://zahiraccounting.com/id/blog/apa-saja-yang-perlu-diketahui-sebelum-membuat-toko-online/), anda bisa membuat questioner dengan memanfaatkan sosial medi yang anda gunakan.
+ karena akan membantu dari warga binaan pemasyarakatan sebagai proses transisi menjadi pribadi yang lebih baik pada saat kembali ke lingkungan masyarakat  setelah selesai melaksanakan kewajibannya menjalani masa pidana di lembaga pemasyarakatan atau rumah tahanan.
 
-### 2. Manfaatkan sosial media
+Penelitian kemasyarakatan atau litmas berdasarkan Peraturan Pemerintah Nomor 31 Tahun 1999 tentang pembinaan dan pembimbingan dalam pasal (1) ayat (3) yaitu penelitian kemasyarakatan yang selanjutnya disebut litmas adalah kegiatan penelitian untuk mengetahui latar belakang kehidupan warga binaan pemasyarakatan yang dilaksanakan oleh Balai Pemasyarakatan. 
 
-Anda bisa memanfaatkan akun  [sosial media](https://zahiraccounting.com/id/blog/5-strategi-pemasaran-melalui-sosial-media/)  anda seperti Instagram untuk melakukan kuesioner. Seperti melakukan pertanyaan di story Instagram, atau melakukan pilihan.
+Sesuai dengan pasal 38 ayat (1) dan (2), pembinaan bimbingan kepada narapidana serta klien pemasyarakatan yang akan dibina diluar lembaga pemasyarakatan dilakukan oleh pembimbing kemasyarakatan yang dimana hasil penelitian tersebut akan diberikan sebagai pertimbangan oleh kepolisian, pengadilan, dan juga pihak-pihak lain.
 
-Dengan begitu anda dapat pengetahui apa yang diperlukan dan dibutuhkan oleh teman Instagram anda. Karena untuk membuka bisnis online pastinya pertama kali anda akan memasarkannya melalui sosial media anda, bukan sosial media milik toko anda terlebih dahulu.
 
-### 3. Lakukan observasi media sosial maupun marketplace
 
-Jika anda sudah melakukan kuesioner di sosial media. Anda bisa mengobservasi hasil kuestoner tersebut menjadi suatu keputusan ingin menjual produk apa.
+Konten ini telah tayang di Kompasiana.com dengan judul "Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan", Klik untuk baca:
+https://www.kompasiana.com/i85527/62cec80f6e7f013adc2f7f74/penelitian-kemasyarakatan-sebagai-salat-satu-alat-dalam-merevitalisasi-pemasyarakatan
 
-Anda juga bisa melakukan observasi melalui marketplace dengan mencari produk yang ingin anda jual. Anda bisa melihat harga pasaran dan bisa melihat pengguna lebih banyak membeli barang dengan harga dan kualitas seperti apa.
+Kreator: I Gede Arimbawa
 
-### 4. Tentukan harga jual yang bersaing
 
-Sebelumnya anda sudah melakukan observasi harga dan kualitas. Dari sini anda bisa menentukan harga produk anda apakah bisa bersaing dengan toko yang sudah anda observasi tersebut.
 
-Dengan anda menaruh harga lebih murah dari official store-nya tetapi barang anda sama kualitasnya, maka anda memiliki nilai unggul dari toko tersebut. Orang-orang akan lebih membeli produk itu melalui toko anda.
+Kompasiana adalah platform blog, setiap konten menjadi tanggungjawab kreator.
 
-[](https://zahiraccounting.com/id/blog/manajemen-sdm/)
+Tulis opini Anda seputar isu terkini di Kompasiana.com
 
-Baca Juga : Manajemen SDM: Pengertian, Tujuan, dan Fungsi
+Penelitian Kemasyarakatan bertujuan dalam upaya mengungkapkan latar belakang terjadinya tindak pidana untuk mengetahui tingkat risiko dan kebutuhan pelanggar hukum, menentukan program pelayanan tahanan, proses dan tahap pembinaan WBP, evaluasi pelaksanaan program pembinaan, dan menentukan keberhasilan penanganan terhadap WBP.
 
-### 5. Tentukan tema bisnis anda
+Oleh karena itu diperlukan meningkatkan performa kinerja dari pembimbing kemasyarakatan serta  pengoptimalisasi dari tugas Pembimbing Kemasyarakatan yang wajib dilakukan, baik secara struktur maupun secara substansi serta meningkatkan kompetensi pembimbing kemasyarakatan di bidang penelitian berupa
 
-Setelah menentukan produk dan harga produk yang ingin anda jual. Anda juga perlu menentukan tema bisnis. Seperti apa saja yang akan anda jual.
+Meningkatkan kemampuan analisa
+Meningkatkan kemampuan wawancara dan penggalian data
+Meningkatkan kemampuan dalam penulisan tata bahasa yang baik dan benar
+Meningkatkan kemampuan dalam berpikir kritis
+Dengan meningkatkan kompetensi PK diharapkan Penelitian Kemasyarakatan dapat dipergunakan dengan baik dalam memberikan rekomendasi yang baik, benar dan tepat sehingga revitalisasi pemasyarakatandapat tercapai. Serta dapat menumbuhkan kesadaran pelanggar hukum atas kesalahannya, adanya perubahan perilaku dari pelanggar hukum, dan menurunnya residivis pelanggar hukum. 
 
-Pastinya anda tidak akan terpaku hanya satu produk. Misalkan anda ingin menjual produk sepatu. Anda bisa memperluas produk anda dengan tema fashion.
+Oleh karena itu, seluruh petugas Pemasyarakatan termasuk Pembimbing Kemasyarakatan wajib memahami tugas dan fungsinya masing-masing dan selalu berupaya untuk meningkatkan kompetensinya.
 
-Anda bisa menjual pakaian, tas, aksesoris dan lain sebagainya. Dengan begitu sumber penghasilan anda akan meluas dan produk yang anda jual lebih bervariasi.
+
+
+Konten ini telah tayang di Kompasiana.com dengan judul "Penelitian Kemasyarakatan sebagai Salah Satu Alat dalam Merevitalisasi Pemasyarakatan", Klik untuk baca:
+https://www.kompasiana.com/i85527/62cec80f6e7f013adc2f7f74/penelitian-kemasyarakatan-sebagai-salat-satu-alat-dalam-merevitalisasi-pemasyarakatan
+
+Kreator: I Gede Arimbawa
+
+
+
+Kompasiana adalah platform blog, setiap konten menjadi tanggungjawab kreator.
+
+Tulis opini Anda seputar isu terkini di Kompasiana.com
+
