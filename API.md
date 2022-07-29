@@ -226,4 +226,4 @@ false   //if false
 ```
 
 # DATABASE DESIGN
-![Design Database](https://raw.githubusercontent.com/ZidaneAlFareshy/Tekweb2022/main/img/jindan.jpeg)
+![Design Database](https://github.com/ZidaneAlFareshy/Tekweb2022/blob/main/img/GambarApi.png)
